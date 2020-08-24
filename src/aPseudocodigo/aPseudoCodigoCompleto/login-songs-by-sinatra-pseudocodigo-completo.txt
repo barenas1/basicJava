@@ -1,0 +1,34 @@
+LOGUEO AL APLICATIVO
+
+1. Obtener los datos para el ingreso a la aplicación
+   * url
+   * usuario
+   * contraseña
+
+2. Ingresar al aplicativo:
+   * Digito la url https://evening-bastion-49392.herokuapp.com/
+   * Esta correcto el ingreso?
+
+3. Click en la opción "log in"
+
+4. Ingresar el usuario
+   * Esta correcto?
+   * Que tipo de datos recibe? - letras, números. caracteres especiales?
+   * Que longitud tiene?
+
+5. Ingresar la contraseña
+   * Esta correcto?
+   * Que tipo de datos recibe? - letras, números. caracteres especiales?
+   * Que longitud tiene?
+
+6. Logueo exitoso
+   * Click en el botón Log in
+   * Se visualiza mensaje de logueo exitoso?
+   * Se genera mensaje de error cuando los datos son incorrectos? The username or password you entered are incorrect
+   * Los datos con el cual ingresó si corresponde al dueño
+   * Se visualiza las opciones del aplicativo.
+
+
+
+
+
