@@ -1,6 +1,7 @@
 Escriba un programa que escriba la letra de la cancion de los elefantes,
 hasta que sean 100 elefantes.
 
+
 Ejemplo:
 
 1 elefante se columpiaba sobre la tela de una araña,

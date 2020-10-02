@@ -1,0 +1,15 @@
+buscar10Articulos(){
+
+    numero_articulo=0
+
+    while(numero_articulo <10){
+    //
+    }
+         buscar_articulo()
+        sumar numero_articulo +1
+
+
+    }
+
+
+}

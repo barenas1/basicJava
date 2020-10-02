@@ -1,0 +1,11 @@
+hacer10Sandwuiches() {
+
+    numero_sandwuiches es cero
+    while(numero_sandwiches es menor que 10){
+        hacerSandwich();
+        suma uno a numero_sandwiches
+
+
+    }
+
+ }

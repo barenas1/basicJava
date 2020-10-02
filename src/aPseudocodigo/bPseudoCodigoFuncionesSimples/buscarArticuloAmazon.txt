@@ -1,0 +1,39 @@
+buscarArticuloAmazon() {
+    navegarPagina()
+    validarCargaPagina
+    buscarProducto()
+    validarProducto()
+
+}
+
+navegarPagina() {
+    abrir navegador
+    escribir la url https://www.amazon.com.co
+    presionar enter
+}
+
+validarCargaPagina() {
+      Se visualiza las opciones de menu
+      Se visualiza el cuadro de busca
+      Se visualiza el icono del idioma
+      Se visualiza adicionar carrito
+      Se visualiza los productos favoritos
+
+}
+
+buscarProducto() {
+    Ingresar en el campo de búsquedad el producto que desea comprar (Portatil Dell)
+    Click en la lupa
+    Se visualiza resultado del producto
+    Click en el producto que desea
+
+
+}
+
+ validarProducto() {
+    Validar imagen del producto
+    Validar el nombre del producto
+    Validar caracteristicas del producto(modelo, cpu, estilo)
+    Validar detalle del producto
+
+ }

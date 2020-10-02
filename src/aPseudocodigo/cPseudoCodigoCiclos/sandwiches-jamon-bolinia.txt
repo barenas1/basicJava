@@ -1,0 +1,14 @@
+//Hacer 5 sandwiches de jamon y 10 de sandwiches de bolonia
+
+    numero_sandwiches_jamon=0
+    while(numero_sandwich_jamon<5) {
+        hacerSandwiches();
+        sumar numero_sandwiches_jamon +1;
+    }
+
+
+      numero_sandwiches_bolonia=0
+        while(numero_sandwich_bolonia<5) {
+            hacerSandwiches();
+            sumar numero_sandwiches_bolonia +1;
+        }

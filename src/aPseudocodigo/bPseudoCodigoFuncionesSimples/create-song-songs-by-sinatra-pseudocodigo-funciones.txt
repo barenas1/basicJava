@@ -1,0 +1,48 @@
+crearCreacion() {
+
+login()
+
+1. Reunir los datos de la canción a crear
+   * Title
+   * Length
+   * Date(mm/dd/yyyy)
+   * Lyrics
+
+2. Crear la nueva canción
+   * Dar click en el link "Create a new song"
+   * Se visualiza los datos a ingresar?
+
+3. Ingresar el titulo de la canción en el campo: "Title"
+   * Cual es la longitud del campo?
+   * Recibe cualquier dato?
+
+4. Ingresar el tiempo que dura la canción en el campo: "Length".
+   * Tiene definido la longitud del campo?
+   * Genera mensaje si se pasa de la longitud?
+
+5. Ingresar la fecha en el campo: "Date"
+   * El formato es el correcto? Date(mm/dd/yyyy)
+   * Se muestra mensaje de error en caso contrario?
+   * Tiene definido la longitud del campo?
+
+6. Ingresar en tipo de lirica de la canción en el campo: "Lyrics"
+   * Tiene definido la longitud del campo?
+
+7. Guardar canción
+   * Click en el botón "Save Song"
+   * Se genera mensaje que indica que la canción se grabó? - Song successfully added
+   * Se visualiza los datos de la canción que se crearón?
+
+8. Visualización de la canción creada
+   * Se visualiza el titulo de la canción?
+   * Se visualiza la fecha del release de la canción?
+   * Se visualiza la duración de la canción?
+   * Se visualiza la lirica de la canción?
+   * Se visualiza Nobody has liked this song so far!
+   * Se visualiza back to songs index?
+   * Se visualiza edit this song
+   * Se visualiza el botón delete this song
+   * Se visualiza el link Log out
+
+
+}
